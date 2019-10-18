@@ -9,7 +9,7 @@ def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
   
-  puts show[name]
+  return show
 end
 
 add_character
