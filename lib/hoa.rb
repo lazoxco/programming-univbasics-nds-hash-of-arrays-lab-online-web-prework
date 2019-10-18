@@ -12,3 +12,4 @@ def add_character(show, name)
   puts show[name]
 end
 
+add_character
