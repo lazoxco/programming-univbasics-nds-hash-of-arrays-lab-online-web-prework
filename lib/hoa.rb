@@ -12,4 +12,4 @@ def add_character(show, name)
   return show[name]
 end
 
-add_character(BASE_HOA[:chipmunks][Alvin])
+add_character(BASE_HOA[:chipmunks][Alvin]
